@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment>Open browser and navigate to url
+Check if user is located in the desired url
+Check login error messages
+Login into the platform using a valid email and password</comment>
+   <testCaseGuid>8514c835-3f6f-440a-aec7-1525f551c697</testCaseGuid>
+</TestCaseEntity>

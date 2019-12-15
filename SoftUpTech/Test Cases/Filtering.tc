@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filtering</name>
+   <tag></tag>
+   <comment>Open browser and navigate to url
+Check if user is located in the desired url</comment>
+   <testCaseGuid>cc9867b3-2da8-4731-b750-b74ce826655e</testCaseGuid>
+</TestCaseEntity>
