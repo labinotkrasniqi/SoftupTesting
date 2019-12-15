@@ -1,6 +1,13 @@
 # SoftupTesting
 
-Hello to setup please download Katalon latest version here :
+In this assigment we automated scenarios such as Login and Logout, Data filtering, Creating a new building and some other small elements that are cought up during the process.
+
+
+Elements are stored as testobjects and can be found on the Object Repository folder. 
+Code has room for refactoring thus we can make it less redudant but I didn't want to complicate it on the first assigment. 
+
+
+To setup please download Katalon latest version here :
 https://www.katalon.com/.
 After downloading Katalon open it and follow the steps.
 
